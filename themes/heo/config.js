@@ -20,7 +20,7 @@ const CONFIG = {
   // 英雄区(首页顶部大卡)
   HEO_HERO_TITLE_1: '分享资源',
   HEO_HERO_TITLE_2: '与平常生活',
-  HEO_HERO_TITLE_3: 'Notion.Kemiaofc.CN',
+  HEO_HERO_TITLE_3: 'Notion.Kemiaofx.CN',
   HEO_HERO_TITLE_4: 'Github项目',
   HEO_HERO_TITLE_5: '克喵的Github项目资源分享',
   HEO_HERO_TITLE_LINK: 'https://github.com/Kemiaojun/Kemiaofx',
